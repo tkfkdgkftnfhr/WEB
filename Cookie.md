@@ -6,7 +6,6 @@
 
 ![cookie](https://t1.daumcdn.net/cfile/tistory/25020637595F1C9619)
 
-# 출처(https://kobrekim.com/footer-ko-kr/cookie-policy-ko-kr/what-are-cookies-and-why-we-use-them-ko-kr/)
 ------
 # 생각 정리...<br/><br/>
 
@@ -25,3 +24,5 @@
 > 
 > 사용자의 광고보기 상태가 7일간 보지 않기이면, 7일동안 광고를 띄우지 않는다.
 
+# 출처
+* https://kobrekim.com/footer-ko-kr/cookie-policy-ko-kr/what-are-cookies-and-why-we-use-them-ko-kr/
